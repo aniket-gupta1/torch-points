@@ -3,12 +3,10 @@ Pytorch kernels for pointnet++ like architectures
 
 ## Installation
 Requires torch version 1.0 or higher.
+Tested on torch 1.12 with Cuda 11.3
 ```
-pip install git+https://github.com/nicolas-chaulet/torch-points.git
-```
-or with poetry:
-```
-poetry add git+https://github.com/nicolas-chaulet/torch-points.git
+pip install git+https://github.com/aniket-gupta1/torch-points.git
+
 ```
 
 ## Usage
